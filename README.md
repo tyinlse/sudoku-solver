@@ -1,16 +1,39 @@
-# React + Vite
+Mini Sudoku Solver 🧩
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Vibe coding
 
-Currently, two official plugins are available:
+A clean, interactive web application designed to solve 4x4 Mini Sudoku and 5x5 Logic Puzzles (Latin Squares) built by Google Gemini
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+You can use it solve some online test like GapChallenge.
 
-## React Compiler
+🚀 Live Demo
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Try it here: https://sudoku-solver-six-beta.vercel.app/
 
-## Expanding the ESLint configuration
+📖 About
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This app was built to help solve visual logic puzzles often found in games or brain teasers.
+
+4x4 Mode: Solves standard Mini Sudoku (Rows, Cols, and 2x2 Boxes must be unique).
+
+5x5 Mode: Solves Latin Square puzzles (Rows and Cols must be unique).
+
+✨ Features
+
+⚡️ Instant backtracking solver algorithm.
+
+🎨 Responsive design using Tailwind CSS.
+
+🔄 One-click reset and grid switching.
+
+📱 Mobile-friendly interface.
+
+🛠️ Built With
+
+React
+
+Vite
+
+Tailwind CSS
+
+Lucide React Icons
