@@ -1,39 +1,35 @@
-Mini Sudoku Solver 🧩
+uo# Mini Sudoku Solver 🧩
 
-Vibe coding
+A clean, interactive web application designed to solve **4x4 Mini Sudoku** and **5x5 Logic Puzzles** (Latin Squares).
 
-A clean, interactive web application designed to solve 4x4 Mini Sudoku and 5x5 Logic Puzzles (Latin Squares) built by Google Gemini
+## 🚀 Live Demo
 
-You can use it solve some online test like GapChallenge.
+**Try it here:** https://sudoku-solver-six-beta.vercel.app/
 
-🚀 Live Demo
-
-Try it here: https://sudoku-solver-six-beta.vercel.app/
-
-📖 About
+## 📖 About
 
 This app was built to help solve visual logic puzzles often found in games or brain teasers.
 
-4x4 Mode: Solves standard Mini Sudoku (Rows, Cols, and 2x2 Boxes must be unique).
+* **4x4 Mode:** Solves standard Mini Sudoku (Rows, Cols, and 2x2 Boxes must be unique).
 
-5x5 Mode: Solves Latin Square puzzles (Rows and Cols must be unique).
+* **5x5 Mode:** Solves Latin Square puzzles (Rows and Cols must be unique).
 
-✨ Features
+## ✨ Features
 
-⚡️ Instant backtracking solver algorithm.
+* ⚡️ Instant backtracking solver algorithm.
 
-🎨 Responsive design using Tailwind CSS.
+* 🎨 Responsive design using **Tailwind CSS**.
 
-🔄 One-click reset and grid switching.
+* 🔄 One-click reset and grid switching.
 
-📱 Mobile-friendly interface.
+* 📱 Mobile-friendly interface.
 
-🛠️ Built With
+## 🛠️ Built With
 
-React
+* React
 
-Vite
+* Vite
 
-Tailwind CSS
+* Tailwind CSS
 
-Lucide React Icons
+* Lucide React Icons
